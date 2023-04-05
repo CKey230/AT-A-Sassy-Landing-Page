@@ -1,3 +1,7 @@
+@import "btnConfig";
+@import "utilities";
+@import "config";
+
 .box {
   max-width: 1100px;
   padding: 0 30px;
@@ -169,5 +173,3 @@ a {
 .py-5 {
   padding: 5rem 0;
 }
-
-/*# sourceMappingURL=style.css.map */
